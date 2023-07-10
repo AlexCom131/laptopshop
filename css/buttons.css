@@ -1,0 +1,36 @@
+.black-button {
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #000000;
+  font-size: 16px;
+  padding: 7px 25px;
+  border-radius: 10px;
+  border: 2px solid #000000;
+  background: #ffffff;
+  box-shadow: 2px 2px 2px #000000; 
+}
+.black-button:hover {
+  color: #ffffff ;
+  background: #272323;
+  box-shadow: 2px 2px 2px #ffffff; 
+}
+
+.red-button {
+  position: relative;
+  margin-left: 10px;
+  margin-right: 10px;
+  color: #ff0505;
+  font-size: 16px;
+  padding: 7px 25px;
+  border-radius: 10px;
+  border: 2px solid #ff0505;
+  background: #FFFFFF;
+  box-shadow: 2px 2px 2px #000000; 
+  
+}
+.red-button:hover {
+  color: #ffffff ;
+  background: #ff1414;
+  box-shadow: 2px 2px 2px #ff6d6d; 
+}

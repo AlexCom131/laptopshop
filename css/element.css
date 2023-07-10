@@ -1,0 +1,25 @@
+.element {
+    background-color: #ffffff;
+    width: 250px;
+    margin: 10px;
+    font-family: Verdana;
+    text-align: center;
+    border: 5px solid #e6e931;
+    border-radius: 10px;
+    box-shadow: 4px 4px 4px #000000; 
+}
+
+.element-img {
+    width: 240px;
+    height: 240px;
+    margin: 10px auto;
+}
+
+.element-data {
+    text-align: center;
+}
+
+.textBlod{
+    width: 800px;
+    color :#595959
+}
